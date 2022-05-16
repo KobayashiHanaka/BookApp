@@ -1,0 +1,19 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+.top h1{
+  margin:30px;
+  font-size:25px;
+
+}
+
+.top p{
+  margin: 25px 40px;
+}
+
+.top-link{
+  margin:30px;
+}

@@ -1,0 +1,36 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+.edit h1{
+    margin:50px;
+}
+
+.edit h4 {
+    margin-left: 50px;
+    margin-top:30px;
+}
+
+.edit-form{
+    margin-left: 50px;
+}
+
+
+
+
+
+.update-link{
+    display: block;
+    margin:50px;
+}
+
+.edit-link{
+    margin:50px;
+}
+
+.edit-error{
+    color: red;
+}

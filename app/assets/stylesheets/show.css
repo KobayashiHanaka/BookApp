@@ -1,0 +1,17 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+.notifications{
+  margin: 50px;
+}
+
+.show{
+  display: block;
+}
+
+.show p{
+ margin: 50px;
+}
